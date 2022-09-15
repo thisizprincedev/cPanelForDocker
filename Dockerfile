@@ -1,6 +1,6 @@
-FROM centos:7 
+FROM centos:8 
 
-LABEL MAINTAINER="Sinesio Bittencourt"
+LABEL MAINTAINER="Prince Dev"
 
 ENV container docker 
 
